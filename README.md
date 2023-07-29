@@ -1,15 +1,12 @@
 # presentations
-<hr>
 Consist of materials presented to my external talks
 
 ## Java Talks
-<hr>
 
-- [Quarkus and OpenShift Development] (pdf/Quarkus and OpenShift Development.pdf)
-- [The Value of Quarkus: A developer's perspective] (pdf/The Value of Quarkus - a developer perspective.pdf)
+* [Quarkus and OpenShift Development](https://github.com/rjtmahinay/presentations/blob/main/pdf/Quarkus%20and%20OpenShift%20Development.pdf)
+* [The Value of Quarkus: A developer's perspective](https://github.com/rjtmahinay/presentations/blob/main/pdf/The%20Value%20of%20Quarkus%20-%20a%20developer%20perspective.pdf)
 
 ## License
-<hr>
 MIT License
 
 Copyright (c) 2023 Tristan Mahinay
