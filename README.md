@@ -3,8 +3,9 @@ Consist of materials presented to my external talks
 
 ## Java Talks
 
-* [Quarkus and OpenShift Development](https://github.com/rjtmahinay/presentations/blob/main/pdf/Quarkus%20and%20OpenShift%20Development.pdf)
-* [The Value of Quarkus: A developer's perspective](https://github.com/rjtmahinay/presentations/blob/main/pdf/The%20Value%20of%20Quarkus%20-%20a%20developer%20perspective.pdf)
+* [Quarkus and OpenShift Development](pdf/Quarkus_and_OpenShift_Development.pdf)
+* [The Value of Quarkus: A developer's perspective](pdf/The_Value_of_Quarkus_a_developer_perspective.pdf)
+* [Modular Monolithic in Practice: Explore Implementations in Java](pdf/Modular_Monolithic_in_Practice_Explore_Implementations_in_Java.pdf)
 
 ## License
 MIT License
