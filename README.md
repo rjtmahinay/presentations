@@ -28,6 +28,7 @@ I've included links to my blogs published in a global online publisher.
 
 * **Social Media Compilation:** https://linktr.ee/rjtmahinay
 * **LinkedIn:** https://www.linkedin.com/in/rjtmahinay/
+* **Sessionize:** https://sessionize.com/rjtmahinay
 
 ## Blogs
 * **Friends of OpenJDK (Foojay) Author Profile:** https://foojay.io/today/author/tristan-mahinay/
