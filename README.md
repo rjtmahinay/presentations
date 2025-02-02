@@ -36,6 +36,9 @@ I've included links to my blogs published in a global online publisher.
 
 ## Open-source Contribution
 
+### Open Source Badge
+* [Open Source Contributor Badge](https://www.credly.com/earner/earned/badge/0ad18c9e-bd45-4027-92f4-2c05bc155e1f) - contributed fixes and additional code for the LTS releases of Quarkus.
+
 ### Quarkus Framework
 Contributed to the codebase of Quarkus which was integrated to its Long-term Support (LTS) releases.
 
