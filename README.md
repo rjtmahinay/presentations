@@ -7,16 +7,19 @@ Consist of my materials presented to my external Open-source Java and Technical 
   * [Profiles](#profiles)
   * [Blogs](#blogs)
   * [Open-source Contribution](#open-source-contribution)
+    * [Open Source Badge](#open-source-badge)
     * [Quarkus Framework](#quarkus-framework)
   * [Java Community Process (JCP)](#java-community-process-jcp)
     * [Java Bootcamp 2024](#java-bootcamp-2024)
     * [2024 JCP Annual Awards Nomination](#2024-jcp-annual-awards-nomination)
-  * [2024](#2024)
+  * [2025](#2025)
     * [Talks](#talks)
+  * [2024](#2024)
+    * [Talks](#talks-1)
     * [Conferences](#conferences)
     * [Blogs](#blogs-1)
   * [2023](#2023)
-      * [Talks](#talks-1)
+      * [Talks](#talks-2)
     * [Conferences](#conferences-1)
     * [Blogs](#blogs-2)
 <!-- TOC -->
@@ -59,6 +62,14 @@ We held our first Java Bootcamp discussing Java Basics, Java 8 - 21, and Spring 
 ### 2024 JCP Annual Awards Nomination
 JUG PH is nominated for the Java in Education Community Award for its effort in creating a bootcamp in the Philippines.
 * **JCP Nominees:** https://jcp.org/en/press/news/awards/2024awards
+
+## 2025
+### Talks
+| **Java/Tech Talks**                                                                                                                                                                                       | **Event**                                                                                                                                       | **Type**  | Date          | Code Demonstration |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------|---------------|--------------------|
+| **Practical Spring Kafka** <br/><br/> **Contribution:** Demonstrated code and showed architecture on how Spring Kafka and Confluent Platform used in the Enterprise Development                           | [IN PERSON! JUG PH and Apache Kafka® Meetup (March 2025)](https://www.meetup.com/java-user-group-ph/events/306748772/)                          | Technical | Mar 27, 2025  | TBD                |
+| **Benchmarking: Open Liberty, Spring Boot, Micronaut, and Quarkus, which is better?** <br/><br/> **Contribution:** Showed the performance metrics of the Java Cloud-native Frameworks and why they matter | [Next-Gen Java: AI, Cloud, & Performance, sponsored by IBM TechXchange](https://www.ibm.com/events/reg/flow/ibm/gry7cwmb/landing/page/landing/) | Technical | April 4, 2025 | TBD                |
+
 
 ## 2024
 ### Talks
