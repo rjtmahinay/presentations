@@ -8,19 +8,21 @@ Consist of my materials presented to my external Open-source Java and Technical 
   * [Blogs](#blogs)
   * [Open-source Contribution](#open-source-contribution)
     * [Open Source Badge](#open-source-badge)
+    * [Spring AI - watsonx.ai](#spring-ai---watsonxai)
     * [Quarkus Framework](#quarkus-framework)
   * [Java Community Process (JCP)](#java-community-process-jcp)
     * [Java Bootcamp 2024](#java-bootcamp-2024)
     * [2024 JCP Annual Awards Nomination](#2024-jcp-annual-awards-nomination)
   * [2025](#2025)
     * [Talks](#talks)
+    * [Conferences](#conferences)
   * [2024](#2024)
     * [Talks](#talks-1)
-    * [Conferences](#conferences)
+    * [Conferences](#conferences-1)
     * [Blogs](#blogs-1)
   * [2023](#2023)
       * [Talks](#talks-2)
-    * [Conferences](#conferences-1)
+    * [Conferences](#conferences-2)
     * [Blogs](#blogs-2)
 <!-- TOC -->
 ## Purpose
@@ -29,9 +31,9 @@ I've included links to my blogs published in a global online publisher.
 
 ## Profiles
 
-* **Social Media Compilation:** https://linktr.ee/rjtmahinay
-* **LinkedIn:** https://www.linkedin.com/in/rjtmahinay/
-* **Sessionize:** https://sessionize.com/rjtmahinay
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/rjtmahinay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjtmahinay/)
+[![Sessionize](https://img.shields.io/badge/Sessionize-1AB394?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/rjtmahinay)
 
 ## Blogs
 * **Friends of OpenJDK (Foojay) Author Profile:** https://foojay.io/today/author/tristan-mahinay/
@@ -41,6 +43,13 @@ I've included links to my blogs published in a global online publisher.
 
 ### Open Source Badge
 * [Open Source Contributor Badge](https://www.credly.com/earner/earned/badge/0ad18c9e-bd45-4027-92f4-2c05bc155e1f) - contributed fixes and additional code for the LTS releases of Quarkus.
+
+### Spring AI - watsonx.ai
+Project Lead of Spring AI - watsonx.ai integration
+
+| Project                                                               | Commits                                                                |
+|-----------------------------------------------------------------------|------------------------------------------------------------------------|
+| [spring-ai-community/spring-ai-watsonx-ai](https://github.com/spring-ai-community/spring-ai-watsonx-ai) | https://github.com/spring-ai-community/spring-ai-watsonx-ai/commits/main      |
 
 ### Quarkus Framework
 Contributed to the codebase of Quarkus which was integrated to its Long-term Support (LTS) releases.
@@ -70,6 +79,12 @@ JUG PH is nominated for the Java in Education Community Award for its effort in 
 | **Practical Spring Kafka** <br/><br/> **Contribution:** Demonstrated code and showed architecture on how Spring Kafka and Confluent Platform used in the Enterprise Development                           | [IN PERSON! JUG PH and Apache Kafka® Meetup (March 2025)](https://www.meetup.com/java-user-group-ph/events/306748772/)                          | Technical | Mar 27, 2025  | TBD                |
 | **Benchmarking: Open Liberty, Spring Boot, Micronaut, and Quarkus, which is better?** <br/><br/> **Contribution:** Showed the performance metrics of the Java Cloud-native Frameworks and why they matter | [Next-Gen Java: AI, Cloud, & Performance, sponsored by IBM TechXchange](https://www.ibm.com/events/reg/flow/ibm/gry7cwmb/landing/page/landing/) | Technical | April 4, 2025 | TBD                |
 
+### Conferences
+Contributed by being a speaker and helped in organizing by inviting prominent Java speakers
+
+| Conference                                                          | Contribution/Talk                                                                 | Date              | Artifact                                                                                                                             |
+|---------------------------------------------------------------------|-----------------------------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| SOFTCON PH 2025 <br/><br/> Official Website: https://softconph.com/ | Demonstrated the use of watsonx Orchestrate using an Agentic AI Lending use-case. | Oct 28 - 30, 2025 | Code Documentation: [SOFTCON PH 2025: Loan Application Demo Documentation](https://github.com/rjtmahinay/loan-application-demo-docs) |
 
 ## 2024
 ### Talks
