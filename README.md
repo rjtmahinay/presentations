@@ -11,6 +11,7 @@ Consist of my materials presented to my external Open-source Java and Technical 
     * [Spring AI - watsonx.ai](#spring-ai---watsonxai)
     * [Quarkus Framework](#quarkus-framework)
   * [Java Community Process (JCP)](#java-community-process-jcp)
+    * [JCP News Press](#jcp-news-press)
     * [Java Bootcamp 2024](#java-bootcamp-2024)
     * [2025 JCP Annual Awards Nomination](#2025-jcp-annual-awards-nomination)
     * [2024 JCP Annual Awards Nomination](#2024-jcp-annual-awards-nomination)
@@ -65,6 +66,11 @@ Contributed to the codebase of Quarkus which was integrated to its Long-term Sup
 We are part of JCP as a Partner Member. I've contributed in the JCP for the Java in Education Initiative.
 
 **JUG PH in JCP JUG List:** https://jcp.org/en/participation/JUG_list
+
+### JCP News Press
+* [From Scattered Developers to a Thriving Community: The Story of JUGPH](https://jcp.org/en/press/news/JUGPH_Interview_July_2026) - Interview on the revitalization of JUG PH, supporting local developers, and building global Java community connections.
+* [Building Community Across Japan and Asia-Pacific](https://jcp.org/en/press/news/JCP_JAPAC_Tour_2026) - Feature on Heather VanCura's JAPAC tour visiting Japan, the Philippines, and Taiwan to engage with local JUGs, students, and educators.
+* [JUGPH: Java in Education Initiative](https://jcp.org/en/press/news/JUGPH_Java_in_Education_initiative) - Feature on JUG PH's Java in Education initiative, bi-monthly meetups, and Modern Java Bootcamp.
 
 ### Java Bootcamp 2024
 We held our first Java Bootcamp discussing Java Basics, Java 8 - 21, and Spring Boot.
