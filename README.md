@@ -12,6 +12,7 @@ Consist of my materials presented to my external Open-source Java and Technical 
     * [Quarkus Framework](#quarkus-framework)
   * [Java Community Process (JCP)](#java-community-process-jcp)
     * [Java Bootcamp 2024](#java-bootcamp-2024)
+    * [2025 JCP Annual Awards Nomination](#2025-jcp-annual-awards-nomination)
     * [2024 JCP Annual Awards Nomination](#2024-jcp-annual-awards-nomination)
   * [2025](#2025)
     * [Talks](#talks)
@@ -43,6 +44,7 @@ I've included links to my blogs published in a global online publisher.
 
 ### Open Source Badge
 * [Open Source Contributor Badge](https://www.credly.com/earner/earned/badge/0ad18c9e-bd45-4027-92f4-2c05bc155e1f) - contributed fixes and additional code for the LTS releases of Quarkus.
+* [Open Source Strategic Committer Badge](https://www.credly.com/badges/209b0ffb-4024-46b1-a5aa-700c5c019786/public_url) - leadership and contributions to Spring AI - watsonx.ai.
 
 ### Spring AI - watsonx.ai
 Project Lead of Spring AI - watsonx.ai integration
@@ -67,6 +69,10 @@ We are part of JCP as a Partner Member. I've contributed in the JCP for the Java
 ### Java Bootcamp 2024
 We held our first Java Bootcamp discussing Java Basics, Java 8 - 21, and Spring Boot.
 * **Deck:** https://github.com/JUGPH/java-presentations/tree/main/java-development-bootcamp-1
+
+### 2025 JCP Annual Awards Nomination
+JUG PH is nominated for the Java in Education Community Award for hosting regular meetups, creating learning resources for Java students, and integrating Java in Education into their curriculum for students and young professionals.
+* **JCP Nominees:** https://jcp.org/en/press/news/awards/2025awards
 
 ### 2024 JCP Annual Awards Nomination
 JUG PH is nominated for the Java in Education Community Award for its effort in creating a bootcamp in the Philippines.
