@@ -15,15 +15,17 @@ Consist of my materials presented to my external Open-source Java and Technical 
     * [Java Bootcamp 2024](#java-bootcamp-2024)
     * [2025 JCP Annual Awards Nomination](#2025-jcp-annual-awards-nomination)
     * [2024 JCP Annual Awards Nomination](#2024-jcp-annual-awards-nomination)
-  * [2025](#2025)
+  * [2026](#2026)
     * [Talks](#talks)
+  * [2025](#2025)
+    * [Talks](#talks-1)
     * [Conferences](#conferences)
   * [2024](#2024)
-    * [Talks](#talks-1)
+    * [Talks](#talks-2)
     * [Conferences](#conferences-1)
     * [Blogs](#blogs-1)
   * [2023](#2023)
-      * [Talks](#talks-2)
+      * [Talks](#talks-3)
     * [Conferences](#conferences-2)
     * [Blogs](#blogs-2)
 <!-- TOC -->
@@ -83,6 +85,12 @@ JUG PH is nominated for the Java in Education Community Award for hosting regula
 ### 2024 JCP Annual Awards Nomination
 JUG PH is nominated for the Java in Education Community Award for its effort in creating a bootcamp in the Philippines.
 * **JCP Nominees:** https://jcp.org/en/press/news/awards/2024awards
+
+## 2026
+### Talks
+| **Java/Tech Talks**                                                                                                                                                                                                                                                                                                                                                                                                                     | **Event**                                                                                                | **Type**  | Date         | Code Demonstration                    |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------|--------------|---------------------------------------|
+| [Empowering Java Development with Agent Skills](pdf/Java%20Development%20-%20Agent%20Skills.pdf) <br/><br/> **Contribution:** Demonstrated how Agent Skills replace fragile prompts with modular, reusable, and deterministic tools for Java and Spring Boot development. Discussed agentskills.io specifications, progressive disclosure, standardizing environments with AGENTS.md and GEMINI.md, and enforcing Java 21 best practices, virtual threads, and JUnit 5 testing. | [Java × Azure Community Meetup: Reloaded](https://www.meetup.com/java-user-group-ph/events/316743212/) | Technical | Oct 9, 2026  | N/A - code demonstration done on-site |
 
 ## 2025
 ### Talks
